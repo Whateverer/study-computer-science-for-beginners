@@ -112,6 +112,23 @@ bit -> 경우의 수 (0,1 -> 총 2가지)
     + 주 기억장치는 일련번호를 붙인다. - 이것이 메모리 주소임
     + 보조 기억장치는 트랙(Track) 번호와 섹터(Sector) 번호를 붙여 관리한다. (파일 (File)의 등장)
 
+## HDD, SSD와 파일 시스템
+### 주 기억장치 공간은 '일련번호'로 관리한다.
+Register는 Name      
+RAM은 주소 - 번호를 붙여 1byte (8bit) 단위로 관리
+
+### HDD의 논리적 구조
+**Track, Sector**
+
+![img_1.png](img_1.png)
+- Bad Sector : 10만 번 정도 overwrite(덮어쓰기)를 하다 보면 Sector를 더 이상 사용할 수 없게 된다. 그것을 Bad Sector라고 한다.
+
+### 파일이 저장되는 방법 (파일 시스템)
+File Allocation Table (FAT) - 파일 위치를 알려주는 테이블
+- 0번 트랙, 0번 섹터 : Master Boot Recorder (MBR) - 운영체제 프로그램을 저장해두는 곳
+- 빠른 포맷 : FAT를 지워버리는 것 / 느린 포맷 : 모든 트랙, 섹터에 0으로 overwrite
+
+
 # 섹션 2. 넓고 얕은 컴퓨터 구조
 # 섹션 3. 넓고 얕은 운영체제
 # 섹션 4. 프로그래밍 맛보기
