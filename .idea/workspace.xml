@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="컴퓨터가 뺄셈 하는 방법" />
+    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="컴퓨터가 연산하는 과정">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,7 @@
       <updated>1682056782758</updated>
       <workItem from="1682056784006" duration="5133000" />
       <workItem from="1682261482734" duration="1712000" />
+      <workItem from="1682345107027" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="컴퓨터가 글자를 다루는 방법">
       <created>1682261550982</created>
@@ -72,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682263115979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CPU가 곱하고 나누는 방법">
+      <created>1682345603765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682345603765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="컴퓨터가 연산하는 과정">
+      <created>1682346061046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682346061046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +99,8 @@
     <MESSAGE value="컴퓨터가 글자를 다루는 방법" />
     <MESSAGE value="컴퓨터가 사진을 다루는 방법" />
     <MESSAGE value="컴퓨터가 뺄셈 하는 방법" />
-    <option name="LAST_COMMIT_MESSAGE" value="컴퓨터가 뺄셈 하는 방법" />
+    <MESSAGE value="CPU가 곱하고 나누는 방법" />
+    <MESSAGE value="컴퓨터가 연산하는 과정" />
+    <option name="LAST_COMMIT_MESSAGE" value="컴퓨터가 연산하는 과정" />
   </component>
 </project>
