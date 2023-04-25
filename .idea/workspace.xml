@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="User mode와 Kernel mode 그리고 가상화까지!">
+    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="일단 써놓고 규칙을 찾자">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -70,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682395243471</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="가상 메모리 소개">
+      <created>1682395916798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682395916798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="일단 써놓고 규칙을 찾자">
+      <created>1682396375836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682396375836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +94,8 @@
     <MESSAGE value="컴퓨터의 구성요소와 아바타" />
     <MESSAGE value="국가와 국민으로 이해하는 컴퓨터 세상" />
     <MESSAGE value="User mode와 Kernel mode 그리고 가상화까지!" />
-    <option name="LAST_COMMIT_MESSAGE" value="User mode와 Kernel mode 그리고 가상화까지!" />
+    <MESSAGE value="가상 메모리 소개" />
+    <MESSAGE value="일단 써놓고 규칙을 찾자" />
+    <option name="LAST_COMMIT_MESSAGE" value="일단 써놓고 규칙을 찾자" />
   </component>
 </project>
