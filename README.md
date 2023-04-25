@@ -168,6 +168,23 @@ File Allocation Table (FAT) - 파일 위치를 알려주는 테이블
   + App - Process(공간, 메모리를 가짐) 별도의 Process에 침입할 수 없다. / 침입 가능한 프로그램 : Debugger
   + system - OS
 
+## User mode와 Kernel mode 그리고 가상화까지!
+### OS의 핵심 Kernel
+- 컴퓨터라는 국가의 법은 Kernel로 구현된다.
+- Kernel 영역과 사용자(User) 영역은 완전히 다른 세상이다.
+- kernel(운영체제의 핵심)이 하는 일 
+  + 1. I/O(입출력) 제어
+  + 2. 자원 관리 (자원 : CPU + Memory)
+  + 3. 접근 통제
+
+- CPU를 다른 말로 Machine이라고 한다.
+
+### User mode와 Kernel mode
+- H/W == Physical / S/W == Logical == Virtual
+- **User mode와 Kernel mode를 이어주는 interface == File(Device File)**
+- File은 Read(읽기) or Write(쓰기) or Execute(실행)할 수 있다.
+- H/W를 S/W로 운용하는 기술이 가상화기술이다.
+
 
 # 섹션 4. 프로그래밍 맛보기
 # 섹션 5. 자료구조 소개와 마무리
