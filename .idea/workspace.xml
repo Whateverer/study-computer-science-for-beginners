@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="컴퓨터가 기억공간을 관리하는 방법">
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="인터프리터">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682346601682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="인터프리터">
+      <created>1682431180524</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682431180524</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +116,7 @@
     <MESSAGE value="CPU가 곱하고 나누는 방법" />
     <MESSAGE value="컴퓨터가 연산하는 과정" />
     <MESSAGE value="컴퓨터가 기억공간을 관리하는 방법" />
-    <option name="LAST_COMMIT_MESSAGE" value="컴퓨터가 기억공간을 관리하는 방법" />
+    <MESSAGE value="인터프리터" />
+    <option name="LAST_COMMIT_MESSAGE" value="인터프리터" />
   </component>
 </project>
