@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="컴퓨터가 기억공간을 관리하는 방법">
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="c5224099-0ae2-4b19-abea-02bfd6991adc" name="Changes" comment="원자성, 동기화 그리고 교착상태" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
       <updated>1682056782758</updated>
       <workItem from="1682056784006" duration="5133000" />
       <workItem from="1682261482734" duration="1712000" />
-      <workItem from="1682345107027" duration="2214000" />
+      <workItem from="1682345107027" duration="3497000" />
     </task>
     <task id="LOCAL-00001" summary="컴퓨터가 글자를 다루는 방법">
       <created>1682261550982</created>
@@ -98,7 +94,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682346601682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HDD, SSD와 파일 시스템">
+      <created>1682347547147</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682347547147</updated>
+    </task>
+    <task id="LOCAL-00009" summary="동시성과 병렬성">
+      <created>1682348209892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682348209892</updated>
+    </task>
+    <task id="LOCAL-00010" summary="원자성, 동기화 그리고 교착상태">
+      <created>1682348621075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682348621075</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +128,9 @@
     <MESSAGE value="CPU가 곱하고 나누는 방법" />
     <MESSAGE value="컴퓨터가 연산하는 과정" />
     <MESSAGE value="컴퓨터가 기억공간을 관리하는 방법" />
-    <option name="LAST_COMMIT_MESSAGE" value="컴퓨터가 기억공간을 관리하는 방법" />
+    <MESSAGE value="HDD, SSD와 파일 시스템" />
+    <MESSAGE value="동시성과 병렬성" />
+    <MESSAGE value="원자성, 동기화 그리고 교착상태" />
+    <option name="LAST_COMMIT_MESSAGE" value="원자성, 동기화 그리고 교착상태" />
   </component>
 </project>
